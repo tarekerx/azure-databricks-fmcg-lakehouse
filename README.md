@@ -1,4 +1,3 @@
-```markdown
 # 🏢 FMCG M&A Data Integration: End-to-End Azure & Databricks Lakehouse Pipeline
 
 ![Status: Work in Progress](https://img.shields.io/badge/Status-Work_in_Progress-yellow?style=for-the-badge)
@@ -90,7 +89,6 @@ Following a recent Merger & Acquisition (M&A) event, **Atliqon (FMCG Retailer)**
 
 ## 📁 Repository Structure (Target)
 
-```text
 azure-databricks-fmcg-lakehouse/
 ├── config/                   # Storage mount scripts & configurations
 ├── data/                     # Sample legacy data files
